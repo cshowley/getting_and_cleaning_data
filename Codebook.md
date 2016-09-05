@@ -11,7 +11,9 @@ Activity: one of 6 physical activities with the following IDs:
 </ol>
 
 Measurements: the following features from 'features.txt' were used in this analysis (and averaged):
+
 tBodyAcc-mean()-X 
+
 tBodyAcc-mean()-Y 
 tBodyAcc-mean()-Z 
 tBodyAcc-std()-X 
